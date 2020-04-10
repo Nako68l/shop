@@ -18,5 +18,13 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "customeria": {
+      "tags": []
+    },
+    "customeria-e2e": {
+      "tags": [],
+      "implicitDependencies": ["customeria"]
+    }
+  }
 }
